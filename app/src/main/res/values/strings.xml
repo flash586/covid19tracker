@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">COVIDTracker</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">COVIDTracker</string>
+    <string name="nav_header_subtitle">zamlynnyi_ak16@nuwm.edu.ua</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Глобальна статистика</string>
+    <string name="menu_gallery">Статистика по Україні</string>
+    <string name="menu_slideshow">Рекомендації для захисту</string>
+
+    <string name="home_second">Home Second</string>
+</resources>
